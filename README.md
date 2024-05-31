@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Negi
 - 👀 I’m interested in WebDev
 - 🌱 I’m currently learning BCA-WebDev
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 RahulNegi7060/RahulNegi7060 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
