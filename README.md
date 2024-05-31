@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RahulNegi7060
+- 👋 Hi, I’m Rahul Negi
 - 👀 I’m interested in WebDev
 - 🌱 I’m currently learning BCA-WebDev
 - ⚡ Fun fact: ...
